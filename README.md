@@ -34,8 +34,8 @@ We release the 30-minute datas reported in this paper. For longer recordings, pl
 
 
 ## Reconstruction demos
-<table>
 
+<table>
   <tr>
     <td align="center" width="16.6%">GT</td>
     <td align="center" width="16.6%">Neural-Behavioral</td>
@@ -62,7 +62,6 @@ We release the 30-minute datas reported in this paper. For longer recordings, pl
     <td align="center" width="16.6%">Neural-Behavioral</td>
     <td align="center" width="16.6%">Behavioral</td>
   </tr>
-
 
   <tr>
     <td align="center"><img src="result/gifs/case3_gt.gif" ></td>
@@ -109,7 +108,7 @@ We release the 30-minute datas reported in this paper. For longer recordings, pl
     <td align="center"><img src="result/gifs/case8_b.gif" ></td>
   </tr>
 
-    <tr>
+  <tr>
     <td align="center" width="16.6%">GT</td>
     <td align="center" width="16.6%">Neural-Behavioral</td>
     <td align="center" width="16.6%">Behavioral</td>
